@@ -1,134 +1,101 @@
-<div id="top" align="center">
-  <img src="Black and Yellow Web Developer LinkedIn Banner.jpg" alt="Muhilarasan K Banner" width="100%"/>
+<div align="center" style="background-image: url('YOUR_BACKGROUND_IMAGE_URL.jpg'); background-size: cover; background-position: center; padding: 20px; border-radius: 15px;">
+
+<div style="background-color: rgba(0, 0, 0, 0.4); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+  <a href="https://github.com/rockmuhil">
+    <img src="Black and Yellow Web Developer LinkedIn Banner.jpg" alt="Muhilarasan K Banner" style="width: 100%; border-radius: 10px;"/>
+  </a>
+  <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Muhilarasan K</h1>
+  <h3 style="color: #c9c9c9;">A passionate Full Stack & AI Developer from Tamil Nadu, India.</h3>
+  <p align="center">
+    <a href="https://github.com/rockmuhil" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://linkedin.com/in/k-muhilarasan-871188303/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:rockmuhil82004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://www.leetcode.com/u/rockmuhil82004/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+    <a href="https://huggingface.co/rm20048" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ffc83d?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face"/></a>
+  </p>
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=rockmuhil&label=PROFILE%20HITS&color=007ec6&style=flat-square" alt="rockmuhil" />
+  </p>
 </div>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhilarasan K</h1>
-<h3 align="center">A passionate Full Stack & AI Developer from Tamil Nadu, India.</h3>
+<br>
 
-<p align="center">
-  <a href="https://github.com/rockmuhil" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/k-muhilarasan-871188303/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rockmuhil82004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-    <a href="https://www.leetcode.com/u/rockmuhil82004/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-    <a href="https://huggingface.co/rm20048" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ffc83d?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face"/>
-  </a>
-</p>
+<div style="background-color: rgba(0, 0, 0, 0.4); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+  <h2>🚀 My Tech Dashboard</h2>
 
----
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Languages & Tools</h3>
+        <p align="center">
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,html,css,php,spring,django,streamlit,mysql,mongodb,aws,gcp,git,linux,gimp,ps,ai&perline=5&theme=dark" /></a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">GitHub Stats</h3>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=rockmuhil&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=007ec6&icon_color=007ec6" alt="rockmuhil's GitHub stats" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmuhil&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=007ec6&icon_color=007ec6" alt="Top Languages" />
+        </p>
+      </td>
+    </tr>
+  </table>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...
+  <h3 align="center">Skill Levels</h3>
+  <div style="text-align: left; padding: 15px;">
+    <strong>Full Stack (MERN/LAMP)</strong>
+    <div style="background-color: #222; border-radius: 10px; padding: 3px; margin: 5px 0 15px 0;">
+      <div style="background: linear-gradient(to right, #61DAFB, #007ec6); height: 20px; width: 90%; border-radius: 7px; text-align: center; color: white; font-weight: bold;">90%</div>
+    </div>
+    <strong>AI / Machine Learning / LLMs</strong>
+    <div style="background-color: #222; border-radius: 10px; padding: 3px; margin: 5px 0 15px 0;">
+      <div style="background: linear-gradient(to right, #ffc83d, #F7DF1E); height: 20px; width: 80%; border-radius: 7px; text-align: center; color: black; font-weight: bold;">80%</div>
+    </div>
+    <strong>Cloud & DevOps (AWS/GCP)</strong>
+    <div style="background-color: #222; border-radius: 10px; padding: 3px; margin: 5px 0 15px 0;">
+      <div style="background: linear-gradient(to right, #FF9900, #4285F4); height: 20px; width: 70%; border-radius: 7px; text-align: center; color: white; font-weight: bold;">70%</div>
+    </div>
+  </div>
+</div>
 
-I am a recent Computer Science Engineering graduate with a strong passion for building innovative solutions in the realms of Full-Stack Web Development, Artificial Intelligence (AI), and Machine Learning (ML). My experience includes creating responsive, scalable applications and deploying them on cloud platforms like AWS and GCP. I thrive in collaborative environments and am always eager to take on new challenges and expand my technical skillset.
-
-<details>
-  <summary>Click to see my GitHub Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rockmuhil&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="rockmuhil's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmuhil&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  </p>
-</details>
-
----
-
-## 🚀 My Tech Stack
-
-Here's a snapshot of the technologies I work with.
+<br>
 
 <table width="100%">
   <tr>
-    <td align="center" width="20%">
-      <h4>Languages</h4>
-      <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-      <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <td width="55%" valign="top">
+      <div style="background-color: rgba(0, 0, 0, 0.4); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); height: 100%;">
+        <h2>🛠️ My Projects</h2>
+        <details>
+          <summary><strong>RM AI Assistant (LLM)</strong></summary>
+          <p>An offline-ready AI assistant using React, Ollama, and LLaMA models to streamline operations with 90% accuracy.</p>
+        </details>
+        <hr>
+        <details>
+          <summary><strong>E-Commerce Web App</strong></summary>
+          <p>A full-stack e-commerce app with dynamic content rendering and robust MySQL data storage.</p>
+        </details>
+        <hr>
+        <details>
+          <summary><strong>CalorieSnap (Python, GenAI)</strong></summary>
+          <p>An AI model that accurately estimates calorie counts from food images.</p>
+        </details>
+        <hr>
+        <details>
+          <summary><strong>Multi-PDF Chatbot</strong></summary>
+          <p>An intelligent chatbot using LLMs to enable real-time Q&A across multiple PDF documents.</p>
+        </details>
+      </div>
     </td>
-    <td align="center" width="20%">
-      <h4>Web Development</h4>
-      <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-    </td>
-    <td align="center" width="20%">
-      <h4>Frameworks & Tools</h4>
-      <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
-    </td>
-    <td align="center" width="20%">
-      <h4>Databases</h4>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    </td>
-    <td align="center" width="20%">
-      <h4>Cloud & DevOps</h4>
-      <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <td width="45%" valign="top">
+      <div style="background-color: rgba(0, 0, 0, 0.4); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); height: 100%;">
+        <h2 align="center">🐍 GitHub Contribution Snake</h2>
+        <p align="center">
+          <img src="https://raw.githubusercontent.com/rockmuhil/rockmuhil/output/github-contribution-grid-snake.svg" alt="snake">
+        </p>
+        <p align="center">My contributions are eating up the competition!</p>
+      </div>
     </td>
   </tr>
 </table>
 
----
-
-## 🛠️ My Projects
-
-Here are some of the projects I've worked on. I'm proud of the challenges I've overcome and the skills I've developed.
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **RM AI Assistant (LLM)** | An offline-ready AI assistant built to streamline operations and improve efficiency. | `React (TS)` `Ollama` `LLaMA` |
-| **E-Commerce Web App** | A full-stack e-commerce application with a responsive UI and robust data storage. | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
-| **EV Charging App** | A Node.js application that uses the Google Maps API to help users locate nearby EV charging stations with high accuracy. | `Node.js` `Google Maps API` |
-| **CalorieSnap** | An innovative AI model that estimates the calorie count of food from an image. | `Python` `GenAI` |
-| **Multi-PDF Chatbot** | An intelligent chatbot that enables real-time Q&A across multiple PDF documents. | `Python` `Streamlit` `LLM` |
-
----
-
-## 💼 Professional Experience
-
-**React & AI Developer** @ *S Cube Innovation Pvt. Ltd.* (Feb 2025 - Present)
-- Designed and developed advanced 3D animated websites using React.js.
-- Engineered custom UI components with cutting-edge transitions and effects.
-- Created RMH AI, a custom AI assistant powered by API integrations and fine-tuned large language models.
-
-**Full Stack Developer Intern** @ *Code Bind Technologies* (Jun - Aug 2023)
-- Created full-stack applications using the LAMP stack, improving feature delivery speed by 30%.
-- Integrated REST APIs to enhance system communication.
-
-<details>
-  <summary>View More Internships</summary>
-
-**Networking & Cybersecurity Intern** @ *Cisco* (Feb - Apr 2023)
-- Gained practical experience in network configuration, packet analysis, and Linux security.
-
-**Full Stack Intern** @ *Marcello Tech* (Oct - Dec 2022)
-- Developed and deployed cloud-ready web apps on AWS.
-- Contributed to both frontend and backend development with Node.js.
-
-**Networking Intern** @ *Kaashiv Infotech*
-- Learned the fundamentals of network architecture and protocol configuration.
-</details>
-
----
-
-## 🏆 Achievements & Certifications
-
-- **Finalist in Niral Project by TN Govt**, awarded ₹10,000.
-- **Certifications:**
-  - Java, Web Development, AI & Machine Learning from Udemy & GUVI.
-  - Azure Fundamentals & UiPath Automation from ICT Academy.
-  - Software Development from Accenture.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+</div>
